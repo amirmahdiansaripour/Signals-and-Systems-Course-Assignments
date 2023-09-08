@@ -1,6 +1,22 @@
 # Signals-and-Systems-Course-Assignments
 The analysis of Discrete Fourier Transform, Nyquist Frequency and Aliasing, Non-stationary signals (Matlab and Mathematica)
 
+### Definition of Delta Dirac Function
+
+Any function $f(x, e)$ can be converted into Delta Dirac Function provided that:
+
+1. $\lim_{e \to 0} \[ \int_{-\infty}^{\infty} f(x, e) \space dx \] = 1$
+
+2. $\forall x \neq 0: \lim_{e \to 0} \[ f(x, e) \] = 0$
+
+3. $\lim_{e \to 0} \[ f(0 , e) \] = 0$
+
+For example, a $\textbf{Gaussian distribution}$ whose variance converges to zero, or a rect function whose width converges to zero.
+
+![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_E.gif)
+
+![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_C.gif)
+
 ### Implementation of Discrete Fourier Transform from Scratch
 
 $x(t) = sin(2\pi t + \frac{\pi}{4}) e^{-t^{2}}$
