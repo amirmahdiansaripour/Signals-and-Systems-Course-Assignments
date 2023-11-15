@@ -9,11 +9,11 @@ Any function $f(x, e)$ can be converted into Delta Dirac Function provided that:
 
 2. $\forall x \neq 0: \lim_{e \to 0} \[ f(x, e) \] = 0$
 
-3. $\lim_{e \to 0} \[ f(0 , e) \] = 0$
+3. $\lim_{e \to 0} \[ f(0 , e) \] = \infty$
 
 For example, a $\textbf{Gaussian distribution}$ whose variance converges to zero, or a rect function whose width converges to zero.
 
-![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_E.gif)
+![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_A.gif)
 
 ![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_C.gif)
 
