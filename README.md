@@ -13,7 +13,7 @@ Any function $f(x, e)$ can be converted into Delta Dirac Function provided that:
 
 For example, a $\textbf{Gaussian distribution}$ whose variance converges to zero, or a rect function whose width converges to zero.
 
-![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_A.gif)
+![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_E.gif)
 
 ![Gaussian](./CA1-Delta-Dirac-Power-and-Energy-Signals/Ouput_Delta_Dirac_Signal/Q4_C.gif)
 
